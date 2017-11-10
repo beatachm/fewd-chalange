@@ -1,0 +1,31 @@
+img {
+    width: 300px;
+    height: 200px
+}
+
+.fun {
+    font-style: italic;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+li {
+    list-style-type: none;
+    margin-left: -40px;
+}
+
+.ramka {
+    border: 1px solid #CECECE;
+    padding: 15px;
+}
+
+.margin-top {
+    margin-top: 20px;
+}
+
+.kontener {
+    width: 300px;
+    box-shadow: 10px 10px #E6E6E6;
+}
